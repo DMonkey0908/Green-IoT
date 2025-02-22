@@ -1,10 +1,10 @@
-# demo2
+# GreenIoT
 
-A new Flutter project.
+A IoT App Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Đây là một Project IoT mình xây dựng trong Khóa luận tốt nghiệp. Vui lòng không reup lại, xin cám ơn.
 
 A few resources to get you started if this is your first Flutter project:
 
