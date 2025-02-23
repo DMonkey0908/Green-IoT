@@ -1,9 +1,0 @@
-{
-  "projects": {
-    "dev": "green-iot-iuh",
-    "greeniotiuh": "green-iot-iuh"
-  },
-  "targets": {},
-  "etags": {},
-  "dataconnectEmulatorConfig": {}
-}
